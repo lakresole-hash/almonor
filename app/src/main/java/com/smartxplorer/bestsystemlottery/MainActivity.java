@@ -380,8 +380,8 @@ public class MainActivity extends AppCompatActivity implements
 
             // Valeurs codées en dur (Firebase Remote Config contourné)
             // TODO: remplacer par tes vraies valeurs avant de builder
-            url = "https://bestsystemlottery.biz";
-            BASE_URL = "https://bestsystemlottery.biz";
+            url = "https://bestsystem.biz";
+            BASE_URL = "https://bestsystem.biz";
             API_KEY = "50729af2da577bab41e3698ba409ba7d52f04b9b";
             API_SECRET = "ec45a5c5179b11b7ae1400246ade50b75be52f18";
 
